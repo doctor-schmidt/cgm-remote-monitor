@@ -1,6 +1,7 @@
 bower_components/
 node_modules/
 
+fly.toml
 
 bundle/bundle.out.js
 
